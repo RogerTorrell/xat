@@ -1,0 +1,11 @@
+﻿<Window x:Class="client.login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Join the chat" Height="228.4" Width="525">
+    <Grid>
+        <Button x:Name="ButtonJoinChat" Content="Join the chat!" HorizontalAlignment="Left" Height="36" Margin="54,99,0,0" VerticalAlignment="Top" Width="415" Click="button1_Click"/>
+        <TextBox x:Name="TextBoxName" HorizontalAlignment="Left" Height="23" Margin="54,58,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="415"/>
+        <Label Content="Enter your user name:" HorizontalAlignment="Left" Height="27" Margin="54,26,0,0" VerticalAlignment="Top" Width="415"/>
+
+    </Grid>
+</Window>

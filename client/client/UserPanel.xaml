@@ -1,0 +1,24 @@
+﻿<Window x:Name="UserPanel1" x:Class="client.UserPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UserPanel" Height="400" Width="1018.168">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="144*"/>
+            <ColumnDefinition Width="133*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="TextBoxMsg" HorizontalAlignment="Left" Height="39" Margin="147,260,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="429" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="TextBoxDest" HorizontalAlignment="Left" Height="39" Margin="147,300,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="429" Grid.ColumnSpan="3"/>
+        <Button x:Name="ButtonSendMsg" Content="Send Message" HorizontalAlignment="Left" Height="39" Margin="62.6,260,0,0" VerticalAlignment="Top" Width="141" Grid.Column="2" Click="ButtonSendMsg_Click"/>
+        <!--<ScrollViewer x:Name="ScrollPanelConversation" VerticalScrollBarVisibility="Auto">-->
+        <StackPanel x:Name="StackPanelConversation" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="232" Margin="25,10,0,0" VerticalAlignment="Top" Width="705"/>
+        <!--</ScrollViewer>-->
+        <!--<ScrollViewer VerticalScrollBarVisibility="Auto" CanContentScroll="True" >-->
+        <StackPanel x:Name="ConnectedUsers" Grid.Column="2" HorizontalAlignment="Left" Margin="218.6,49,0,0" VerticalAlignment="Top" Width="250" Height="250"/>
+        <!--</ScrollViewer>-->
+        <Label Content="Connected users:" Grid.Column="2" HorizontalAlignment="Left" Height="35" Margin="217.6,9,0,0" VerticalAlignment="Top" Width="251" FontSize="16" FontWeight="Bold" FontFamily="Segoe UI Semibold"/>
+        <Label Grid.ColumnSpan="2" Content="Missatge" HorizontalAlignment="Left" Height="37" Margin="25,262,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Grid.ColumnSpan="2" Content="Destinatari" HorizontalAlignment="Left" Height="35" Margin="25,304,0,0" VerticalAlignment="Top" Width="98"/>
+    </Grid>
+</Window>

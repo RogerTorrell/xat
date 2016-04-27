@@ -1,0 +1,12 @@
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF3\02_Practiques\xat_wpf_sockets\simulador\simulador\bin\Debug\simulador.exe.config
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF3\02_Practiques\xat_wpf_sockets\simulador\simulador\bin\Debug\simulador.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF3\02_Practiques\xat_wpf_sockets\simulador\simulador\bin\Debug\simulador.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF3\02_Practiques\xat_wpf_sockets\simulador\simulador\obj\Debug\simulador.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF3\02_Practiques\xat_wpf_sockets\simulador\simulador\obj\Debug\simulador.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M9\UF3\02_Practiques\xat_wpf_sockets\simulador\simulador\obj\Debug\simulador.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex4. Detecta Errors\xat\simulador\simulador\bin\Debug\simulador.exe.config
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex4. Detecta Errors\xat\simulador\simulador\obj\Debug\simulador.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex4. Detecta Errors\xat\simulador\simulador\obj\Debug\simulador.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex4. Detecta Errors\xat\simulador\simulador\bin\Debug\simulador.exe
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex4. Detecta Errors\xat\simulador\simulador\bin\Debug\simulador.pdb
+C:\Users\Roger\Dropbox\La Salle - 15_16\DAM_M5\UF2\01_Exercicis\Ex4. Detecta Errors\xat\simulador\simulador\obj\Debug\simulador.csprojResolveAssemblyReference.cache
